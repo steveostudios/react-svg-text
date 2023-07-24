@@ -1,5 +1,9 @@
 # Better SVG text component for React
 
+**Note: Forked from techniq/react-svg-text. There are a couple of things I need but it looks like that prject is dead.
+- typescript defs
+- bug where you can offset from the right and maintain scaling.
+
 **Note: Merged into [vx](https://github.com/hshoff/vx) and is now [@vx/text](https://github.com/hshoff/vx/tree/master/packages/vx-text)**
 
 ## Features
